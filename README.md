@@ -33,6 +33,6 @@ You can typically find the CompEcon Toolbox on Paul Fackler's website or related
 
 ## Basic Analysis
 
-The `Basic analysis` folder contains the MATLAB code used to generate the results presented in Table 2, Table 3, and Figure B.1 of the supplementary strawberry analysis.
+The `Basic analysis` folder contains the MATLAB code used to generate the results presented in Table 2, Table 3, Table 5 and Figure B.1 of the supplementary strawberry analysis.
 
 To reproduce these results, navigate to the `Basic analysis` folder and run the `Mulchpaper.m` script in MATLAB.
