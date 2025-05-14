@@ -31,15 +31,15 @@ Additionally, the **CompEcon Toolbox**, authored by Paul Fackler and Mario Miran
 
 You can typically find the CompEcon Toolbox on Paul Fackler's website or related academic resources.
 
-## Basic Analysis-Strawberries Extension
+## Basic Analysis-Extension Strawberries
 
-The `Basic analysis-Strawberries` folder contains the MATLAB code used to generate the results presented in Table 2, Table 3, Table 5 and Figure B.1 of the supplementary strawberry analysis.
+The `Basic analysis-Extension Strawberries` folder contains the MATLAB code used to generate the results presented in Table 2, Table 3, Table 5 and Figure B.1 of the supplementary strawberry analysis.
 
-To reproduce these results, navigate to the `Basic analysis` folder and run the `Mulchpaper.m` script in MATLAB.
+To reproduce these results, navigate to the `Basic analysis-Extension Strawberries` folder and run the `Mulchpaper.m` script in MATLAB.
 
 ## Analyzing the policies and uncertainty-Strawberries Extension
 
-The `Analyzing the policies and uncertainty-Strawberries Extension` folder contains the MATLAB code used to generate the results presented in Table 2, Table 3, Table 5 and Figure B.1 of the supplementary strawberry analysis.
+The `Analyzing the policies and uncertainty-Extension Strawberries` folder contains the MATLAB code used to generate the results presented in Table 2, Table 3, Table 5 and Figure B.1 of the supplementary strawberry analysis.
 
-To reproduce these results, navigate to the `Analyzing the policies and uncertainty-Strawberries Extension` folder and run the `MulchpaperExtension.m` script in MATLAB.
+To reproduce these results, navigate to the `Analyzing the policies and uncertainty-Extension Strawberries` folder and run the `MulchpaperExtension.m` script in MATLAB.
 
